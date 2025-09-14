@@ -43,6 +43,7 @@ The dashboard provides insights into chocolate sales performance across products
 
 ## 📷 Dashboard Preview
 
+<img width="1907" height="1079" alt="My First POwerBi Dash boARD" src="https://github.com/user-attachments/assets/ea9afc02-921a-441b-aae3-e03be71f2e4d" />
 
 ---
 
@@ -73,6 +74,4 @@ Contributions are welcome! If you’d like to improve visuals, DAX formulas, or 
 Created by **Maresh**.
 For queries, feel free to reach out or open an issue in this repo.
 
----
 
-Would you like me to also create a **ready-to-use `README.md` file** with proper markdown formatting that you can directly upload to GitHub?
